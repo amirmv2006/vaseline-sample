@@ -9,34 +9,34 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <ir.amv.os.vaseline.version>1.0-SNAPSHOT</ir.amv.os.vaseline.version>
+        <com.github.amirmv2006.version>1.0-SNAPSHOT</com.github.amirmv2006.version>
         <org.hibernate.version>4.3.8.Final</org.hibernate.version>
     </properties>
     <dependencies>
         <dependency>
-            <groupId>ir.amv.os.vaseline.base</groupId>
+            <groupId>com.github.amirmv2006.base</groupId>
             <artifactId>vaseline-architecture-impl</artifactId>
-            <version>${ir.amv.os.vaseline.version}</version>
+            <version>${com.github.amirmv2006.version}</version>
         </dependency>
         <dependency>
-            <groupId>ir.amv.os.vaseline.base</groupId>
+            <groupId>com.github.amirmv2006.base</groupId>
             <artifactId>vaseline-hibernate-dao</artifactId>
-            <version>${ir.amv.os.vaseline.version}</version>
+            <version>${com.github.amirmv2006.version}</version>
         </dependency>
         <dependency>
-            <groupId>ir.amv.os.vaseline.base</groupId>
+            <groupId>com.github.amirmv2006.base</groupId>
             <artifactId>vaseline-validation</artifactId>
-            <version>${ir.amv.os.vaseline.version}</version>
+            <version>${com.github.amirmv2006.version}</version>
         </dependency>
         <dependency>
-            <groupId>ir.amv.os.vaseline.base</groupId>
+            <groupId>com.github.amirmv2006.base</groupId>
             <artifactId>vaseline-mapper</artifactId>
-            <version>${ir.amv.os.vaseline.version}</version>
+            <version>${com.github.amirmv2006.version}</version>
         </dependency>
         <dependency>
-            <groupId>ir.amv.os.vaseline.base</groupId>
+            <groupId>com.github.amirmv2006.base</groupId>
             <artifactId>vaseline-json</artifactId>
-            <version>${ir.amv.os.vaseline.version}</version>
+            <version>${com.github.amirmv2006.version}</version>
         </dependency>
         <dependency>
             <groupId>org.hibernate</groupId>
